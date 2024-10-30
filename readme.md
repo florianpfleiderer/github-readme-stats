@@ -177,7 +177,7 @@ To enable icons, you can pass `&show_icons=true` in the query param, like so:
 
 ### Themes
 
-With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
+With inbuilt themes, you can customise the look of the card without doing any [manual customization](#customization).
 
 Use `&theme=THEME_NAME` parameter like so :
 
